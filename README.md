@@ -1,5 +1,5 @@
 # Priyansh Garg
-Web link- [Click here](https://avinash201199.github.io/Avinash-Singh)
+Web link- [Click here](https://prynshg.github.io/Portfolio/) 
 
 ### A portfolio website is a unique way to showcase your work and let others know about yourself. It’s like an evergreen platform for your projects, case studies, and information about you. In addition, it’s one of the best ways to express your personality, experience, and capabilities.
 
@@ -13,6 +13,6 @@ CONTACT ME:
 [<img align="left" alt="Kartikey's LinkedIn" width="34px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 
 
-[website]: https://avinash20199.github.io/Avinash-Singh/
+[website]: https://prynshg.github.io/Portfolio/
 [linkedin]: https://www.linkedin.com/in/prynshg/
 [Github]: https://github.com/prynshg
